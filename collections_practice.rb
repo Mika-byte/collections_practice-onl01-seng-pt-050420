@@ -8,6 +8,6 @@ def sort_array_desc(array)
   descends.reverse
 end
 
-def sort_array_char_count(array)
+def sort_array_char_count(arrays)
   ascends = arrays.sort_by {|array| array.length}
   
