@@ -15,5 +15,5 @@ end
 def swap_element(array)
   first_variable = array [1]
   second_variable = array [2]
-  array [1]
-  array [2]
+  array [1] = second_variable
+  array [2] =
