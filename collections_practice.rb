@@ -11,3 +11,7 @@ end
 def sort_array_char_count(arrays)
   arrays.sort_by {|arrays| arrays.length}
 end
+
+def swap_element(array)
+  first_variable =
+  second_variable =
