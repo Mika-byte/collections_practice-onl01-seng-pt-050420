@@ -10,4 +10,4 @@ end
 
 def sort_array_char_count(arrays)
   arrays.sort_by {|array| arrays.length}
-  
+end
