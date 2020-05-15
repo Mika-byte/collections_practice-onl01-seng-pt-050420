@@ -9,5 +9,5 @@ def sort_array_desc(array)
 end
 
 def sort_array_char_count(arrays)
-  ascends = arrays.sort_by {|array| array.length}
+  arrays.sort_by {|array| array.length}
   
